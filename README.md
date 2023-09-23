@@ -1,6 +1,6 @@
 # pset4 Image Processing using C
 
-This repository hosts an image processing project implemented in the C programming language. With a focus on simplicity and efficiency, this project allows users to apply various image filters and transformations to their images. Whether you want to convert an image to grayscale, apply a sepia tone, invert colors, or perform rotations and flips, this program provides a user-friendly interface to achieve these tasks effortlessly.
+This repository hosts an image processing project implemented in the C programming language. With a focus on simplicity and efficiency, this project allows users to apply various image filters and transformations to their images. Whether you want to convert an image to grayscale, apply a sepia tone, invert colors, or perform rotations and flips.
 This repository contains a simple image-processing program written in C. It allows you to perform various operations on images, such as applying filters and transformations.
 
 ## Table of Contents
